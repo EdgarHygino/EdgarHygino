@@ -2,6 +2,8 @@
 
 💻 Skills Técnicas:
 
+[![Blog](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)]
+
 Desenvolvimento FullStack:
 * Experiente em desenvolvimento utilizando .Net Framework e .NET Core.
 * Domínio em ASP.NET MVC, Angular e WindowsForm.
