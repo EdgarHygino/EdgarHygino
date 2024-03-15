@@ -21,8 +21,6 @@ Outras Habilidades:
 * Utilização de Azure DevOps, Git e SVN para controle de versão.
 * ORM com Dapper e Entity Framework.
 
-🛠️ Experiência Profissional:
-Antes de mergulhar no mundo do desenvolvimento, acumulei mais de uma década de experiência em gestão nas áreas de Planejamento de Fábrica (PCP) e Comercial Pós-Venda. Durante esse período, liderei equipes e trabalhei com diversos ERPs do mercado, adquirindo uma visão estratégica que complementa minha abordagem técnica.
 
 
 <!--
