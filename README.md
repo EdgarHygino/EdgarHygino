@@ -67,15 +67,13 @@ Sou um profissional multifacetado com uma sólida formação em **Análise e Des
 ### 📚 **Educação**
 
 - **Análise e Desenvolvimento de Sistemas**  
-  [Nome da Instituição] - [Ano de Conclusão]
 
 ---
 
 ### 📫 **Contato**
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin)  
-- **GitHub:** [Seu GitHub](https://github.com/seu-github)  
-- **E-mail:** seu-email@example.com  
+- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/edgarhygino)  
+- **GitHub:** [Seu GitHub](https://github.com/EdgarHygino)   
 
 ---
 
