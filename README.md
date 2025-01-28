@@ -72,8 +72,8 @@ Sou um profissional multifacetado com uma sólida formação em **Análise e Des
 
 ### 📫 **Contato**
 
-- **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/edgarhygino)  
-- **GitHub:** [Seu GitHub](https://github.com/EdgarHygino)   
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/edgarhygino)  
+- **GitHub:** [GitHub](https://github.com/EdgarHygino)   
 
 ---
 
