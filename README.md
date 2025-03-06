@@ -1,6 +1,6 @@
 ### 👋 Olá! 
 
-Sou um profissional multifacetado com uma sólida formação em **Análise e Desenvolvimento de Sistemas** e mais de **3 anos de experiência** como desenvolvedor **FullStack**. Minha paixão é criar soluções inovadoras e eficientes, utilizando tecnologias como **.NET Framework**, **.NET Core**, **C#**, **Angular**, e outras ferramentas modernas.
+Sou um profissional multifacetado com uma sólida formação em **Análise e Desenvolvimento de Sistemas**  como desenvolvedor **FullStack**. Minha paixão é criar soluções inovadoras e eficientes, utilizando tecnologias como **.NET Framework**, **.NET Core**, **C#**, **Angular**, e outras ferramentas modernas.
 
 ---
 
